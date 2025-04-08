@@ -31,8 +31,6 @@
 
 ---
 
-## 🌍 Profile Visitors
-
 <p align="center">
   <img src="https://count.getloli.com/get/@hash-fy?theme=rule34" alt="visitor counter"/>
 </p>
