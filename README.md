@@ -32,19 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hash-fy&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-fy&layout=compact&theme=tokyonight" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=hash-fy&theme=tokyonight&hide_border=true" height="150px" />
-
-</div>
-
----
-
 ## 🌍 Profile Visitors
 
 <p align="center">
