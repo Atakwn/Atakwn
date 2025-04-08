@@ -40,12 +40,6 @@
 
 ---
 
-## 📬 Contact Me
-
-- 💬 Discord: `hash-fy`
-
----
-
 > _Thanks for stopping by! Feel free to reach out if you want to collaborate, need help with a project, or just want to chat about code or tech._
 
 ---
