@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Diaz]!
+# 👋 Hey, I'm [Atakwn]!
 
 🎯 Full-stack developer passionate about technology, with over 6 years of experience building efficient, modern, and scalable systems. Currently working as a **back-end developer** on high-impact projects, with a strong presence in the JavaScript/TypeScript ecosystem.
 
@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@diaz-fy?theme=rule34" alt="visitor counter"/>
+  <img src="https://count.getloli.com/get/@Atakwn-fy?theme=rule34" alt="visitor counter"/>
 </p>
 
 ---
