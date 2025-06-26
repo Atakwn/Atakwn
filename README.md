@@ -57,8 +57,3 @@ I work with a wide range of technologies, from **JavaScript/TypeScript** to **Ru
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-> Feel free to reach out if you want to collaborate, need help with a project, or want to talk about Rust, back-end development, bots, or game design.
-- 💬 Discord: [Atakwnn](https://discord.com/users/1297442844058845208)
